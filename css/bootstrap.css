@@ -8,7 +8,11 @@
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
+<<<<<<< HEAD
       -ms-text-size-adjust: 90%;
+=======
+      -ms-text-size-adjust: 100%;
+>>>>>>> Feature2
 }
 body {
   margin: 0;
